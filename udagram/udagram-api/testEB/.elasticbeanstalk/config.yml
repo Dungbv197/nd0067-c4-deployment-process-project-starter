@@ -6,7 +6,7 @@ environment-defaults:
     branch: null
     repository: null
 global:
-  application_name: udagram-api-application
+  application_name: udagram-api
   default_ec2_keyname: null
   default_platform: Node.js 14 running on 64bit Amazon Linux 2
   default_region: us-west-2
@@ -17,3 +17,4 @@ global:
   profile: null
   sc: null
   workspace_type: Application
+  
